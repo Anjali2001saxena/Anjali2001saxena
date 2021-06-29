@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali2001saxena&label=Profile%20views&color=0e75b6&style=flat" alt="anjali2001saxena" /> </p>
 
 - 📫 Reach me at **saxenaanjali239@gmail.com**
+- Check out my <a href="https://anjalisaxena.netlify.app/"> Portfolio website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
