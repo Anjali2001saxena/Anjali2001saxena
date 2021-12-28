@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Saxena</h1>
 <h3 align="center">Aspiring software engineer from India.</h3>
-<img align="right" height="500" width="500" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+<img align="right" height="350" width="350" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali2001saxena&label=Profile%20views&color=0e75b6&style=flat" alt="anjali2001saxena" /> </p>
 
